@@ -6,7 +6,7 @@ package cardgame1;
 
 /**
  *
- * @author haspinderkaur
+ * @author haspinderkaur - 08/02/2025
  */
 public class Card {
     
